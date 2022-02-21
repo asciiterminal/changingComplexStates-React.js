@@ -10,4 +10,4 @@
 
 https://user-images.githubusercontent.com/34340232/154876589-e8436ed0-3ebf-4811-a512-feb123ed278d.mp4
 
-## I would like to point out that this code is longer and the final repo of it talks about shortening it
+## I would like to point out that this code is longer and the final repo of it talks about shortening it from here [https://github.com/asciiterminal/ES6-spreadOperators/blob/main/README.md]
